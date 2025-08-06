@@ -1,0 +1,271 @@
+2025-02-27 19:27:09,282 - bot_user_3_6823 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.68s
+2025-02-27 19:27:09,293 - bot_user_57_7249 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.69s
+2025-02-27 19:27:09,294 - bot_user_10_8038 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.69s
+2025-02-27 19:27:09,295 - bot_user_21_9648 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.69s
+2025-02-27 19:27:09,295 - bot_user_24_4695 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.69s
+2025-02-27 19:27:09,311 - bot_user_48_8852 - Make Move Response Time: 0.46s
+2025-02-27 19:27:09,311 - bot_user_63_1309 - Fetch Game Response Time: 0.34s
+2025-02-27 19:27:09,311 - bot_user_48_8852 moved f5 → d4 in Game 134 (Move #12)
+2025-02-27 19:27:09,313 - bot_user_83_9574 - Make Move Response Time: 0.52s
+2025-02-27 19:27:09,313 - bot_user_83_9574 moved d7 → d6 in Game 140 (Move #8)
+2025-02-27 19:27:09,315 - bot_user_77_7925 - Make Move Response Time: 0.47s
+2025-02-27 19:27:09,315 - bot_user_85_4177 - Make Move Response Time: 0.47s
+2025-02-27 19:27:09,315 - bot_user_86_6114 - Fetch Game Response Time: 0.51s
+2025-02-27 19:27:09,315 - bot_user_77_7925 moved d2 → d3 in Game 81 (Move #17)
+2025-02-27 19:27:09,315 - bot_user_85_4177 moved d7 → d5 in Game 187 (Move #2)
+2025-02-27 19:27:09,333 - bot_user_19_4344 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.73s
+2025-02-27 19:27:09,334 - bot_user_74_2619 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.73s
+2025-02-27 19:27:09,335 - bot_user_11_4044 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.73s
+2025-02-27 19:27:09,355 - bot_user_40_2218 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.75s
+2025-02-27 19:27:09,403 - bot_user_18_3583 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.80s
+2025-02-27 19:27:09,404 - bot_user_80_5559 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.80s
+2025-02-27 19:27:09,513 - bot_user_69_9725 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.91s
+2025-02-27 19:27:09,513 - bot_user_99_3842 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.91s
+2025-02-27 19:27:09,513 - bot_user_62_8636 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.91s
+2025-02-27 19:27:09,514 - bot_user_66_1775 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.91s
+2025-02-27 19:27:09,515 - bot_user_50_1034 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.91s
+2025-02-27 19:27:09,538 - bot_user_87_3975 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 44.93s
+2025-02-27 19:27:09,659 - bot_user_94_1495 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 45.06s
+2025-02-27 19:27:09,758 - bot_user_8_8773 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,762 - bot_user_8_8773 moved e7 → e6 in Game 198 (Move #4)
+2025-02-27 19:27:09,763 - bot_user_75_9838 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,765 - bot_user_67_9192 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,765 - bot_user_78_3443 - Fetch Game Response Time: 1.05s
+2025-02-27 19:27:09,765 - bot_user_30_3238 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,765 - bot_user_37_3827 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,765 - bot_user_0_7063 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,766 - bot_user_7_5166 - Make Move Response Time: 0.53s
+2025-02-27 19:27:09,766 - bot_user_95_8725 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,766 - bot_user_73_8564 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,766 - bot_user_54_7566 - Make Move Response Time: 0.54s
+2025-02-27 19:27:09,766 - bot_user_33_8151 - Fetch Game Response Time: 1.05s
+2025-02-27 19:27:09,766 - bot_user_23_1842 - Make Move Response Time: 0.53s
+2025-02-27 19:27:09,766 - bot_user_75_9838 moved b2 → b3 in Game 194 (Move #3)
+2025-02-27 19:27:09,766 - bot_user_67_9192 moved h7 → h6 in Game 222 (Move #2)
+2025-02-27 19:27:09,767 - bot_user_30_3238 moved h2 → h3 in Game 226 (Move #1)
+2025-02-27 19:27:09,767 - bot_user_37_3827 moved b8 → a6 in Game 137 (Move #6)
+2025-02-27 19:27:09,768 - bot_user_0_7063 moved g6 → g5 in Game 168 (Move #6)
+2025-02-27 19:27:09,768 - bot_user_7_5166 moved d7 → d6 in Game 147 (Move #4)
+2025-02-27 19:27:09,768 - bot_user_95_8725 moved g2 → g3 in Game 215 (Move #3)
+2025-02-27 19:27:09,768 - bot_user_73_8564 moved d5 → e4 in Game 113 (Move #12)
+2025-02-27 19:27:09,768 - bot_user_54_7566 moved d2 → d3 in Game 225 (Move #1)
+2025-02-27 19:27:09,769 - bot_user_23_1842 moved f2 → f4 in Game 227 (Move #1)
+2025-02-27 19:27:09,889 - bot_user_49_6511 - Make Move Response Time: 0.65s
+2025-02-27 19:27:09,889 - bot_user_4_3409 - Fetch Game Response Time: 0.56s
+2025-02-27 19:27:09,890 - bot_user_53_7627 - Fetch Game Response Time: 0.53s
+2025-02-27 19:27:09,890 - bot_user_97_3396 - Fetch Game Response Time: 0.52s
+2025-02-27 19:27:09,890 - bot_user_55_7667 - Fetch Game Response Time: 0.49s
+2025-02-27 19:27:09,890 - bot_user_44_1430 - Make Move Response Time: 0.66s
+2025-02-27 19:27:09,890 - bot_user_63_1309 - Make Move Response Time: 0.58s
+2025-02-27 19:27:09,890 - bot_user_49_6511 moved g8 → f6 in Game 124 (Move #8)
+2025-02-27 19:27:09,895 - bot_user_44_1430 moved g7 → g5 in Game 125 (Move #14)
+2025-02-27 19:27:09,896 - bot_user_63_1309 moved a8 → a7 in Game 87 (Move #24)
+2025-02-27 19:27:09,918 - bot_user_33_8151 - Make Move Response Time: 0.15s
+2025-02-27 19:27:09,918 - bot_user_33_8151 moved b2 → b4 in Game 222 (Move #3)
+2025-02-27 19:27:09,920 - bot_user_78_3443 - Make Move Response Time: 0.15s
+2025-02-27 19:27:09,920 - bot_user_78_3443 moved a7 → a5 in Game 194 (Move #4)
+2025-02-27 19:27:09,949 - bot_user_35_5874 - Make Move Response Time: 0.72s
+2025-02-27 19:27:09,949 - bot_user_35_5874 moved e2 → e3 in Game 166 (Move #9)
+2025-02-27 19:27:09,991 - bot_user_4_3409 - Make Move Response Time: 0.10s
+2025-02-27 19:27:09,991 - bot_user_4_3409 moved g7 → g6 in Game 215 (Move #4)
+2025-02-27 19:27:10,025 - bot_user_55_7667 - Make Move Response Time: 0.13s
+2025-02-27 19:27:10,026 - bot_user_55_7667 moved a7 → a6 in Game 108 (Move #8)
+2025-02-27 19:27:10,027 - bot_user_97_3396 - Make Move Response Time: 0.14s
+2025-02-27 19:27:10,028 - bot_user_97_3396 moved h1 → h2 in Game 123 (Move #9)
+2025-02-27 19:27:10,104 - bot_user_86_6114 - Make Move Response Time: 0.79s
+2025-02-27 19:27:10,104 - bot_user_86_6114 moved c7 → c5 in Game 191 (Move #2)
+2025-02-27 19:27:10,143 - bot_user_53_7627 - Make Move Response Time: 0.25s
+2025-02-27 19:27:10,144 - bot_user_53_7627 moved e8 → d7 in Game 92 (Move #10)
+2025-02-27 19:27:10,650 - bot_user_32_1492 - Fetch Game Response Time: 0.12s
+2025-02-27 19:27:10,650 - bot_user_60_7657 - Fetch Game Response Time: 0.12s
+2025-02-27 19:27:10,788 - bot_user_60_7657 - Make Move Response Time: 0.14s
+2025-02-27 19:27:10,789 - bot_user_61_8681 - Fetch Game Response Time: 0.14s
+2025-02-27 19:27:10,789 - bot_user_1_6081 - Fetch Game Response Time: 0.14s
+2025-02-27 19:27:10,789 - bot_user_60_7657 moved d2 → d4 in Game 182 (Move #3)
+2025-02-27 19:27:10,903 - bot_user_61_8681 - Make Move Response Time: 0.11s
+2025-02-27 19:27:10,904 - bot_user_1_6081 - Make Move Response Time: 0.11s
+2025-02-27 19:27:10,904 - bot_user_61_8681 moved b1 → d2 in Game 107 (Move #13)
+2025-02-27 19:27:10,904 - bot_user_1_6081 moved a2 → a4 in Game 112 (Move #9)
+2025-02-27 19:27:11,049 - bot_user_46_4410 - Fetch Game Response Time: 0.40s
+2025-02-27 19:27:11,202 - bot_user_32_1492 - Make Move Response Time: 0.55s
+2025-02-27 19:27:11,203 - bot_user_32_1492 moved c7 → c6 in Game 131 (Move #8)
+2025-02-27 19:27:11,216 - bot_user_46_4410 - Make Move Response Time: 0.17s
+2025-02-27 19:27:11,216 - bot_user_46_4410 moved d7 → d5 in Game 141 (Move #4)
+2025-02-27 19:27:11,237 - bot_user_42_2087 - Fetch Game Response Time: 0.10s
+2025-02-27 19:27:11,355 - bot_user_27_9248 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 46.75s
+2025-02-27 19:27:11,373 - bot_user_79_6801 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 46.77s
+2025-02-27 19:27:11,394 - bot_user_41_9955 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 46.79s
+2025-02-27 19:27:11,434 - bot_user_25_8696 - Fetch Game Response Time: 0.30s
+2025-02-27 19:27:11,439 - bot_user_15_8734 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,439 - bot_user_14_4557 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,440 - bot_user_16_9784 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,440 - bot_user_29_7712 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,440 - bot_user_98_2543 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,440 - bot_user_91_8971 - Fetch Game Response Time: 0.30s
+2025-02-27 19:27:11,440 - bot_user_51_8669 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,440 - bot_user_90_4708 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,441 - bot_user_58_3153 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,441 - bot_user_39_4880 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,443 - bot_user_6_9222 - Fetch Game Response Time: 0.31s
+2025-02-27 19:27:11,448 - bot_user_42_2087 - Make Move Response Time: 0.21s
+2025-02-27 19:27:11,453 - bot_user_42_2087 moved g1 → h3 in Game 93 (Move #11)
+2025-02-27 19:27:11,485 - bot_user_36_5238 - Fetch Game Response Time: 0.35s
+2025-02-27 19:27:11,529 - bot_user_34_7941 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 46.92s
+2025-02-27 19:27:11,575 - bot_user_15_8734 - Make Move Response Time: 0.14s
+2025-02-27 19:27:11,575 - bot_user_25_8696 - Make Move Response Time: 0.14s
+2025-02-27 19:27:11,576 - bot_user_16_9784 - Make Move Response Time: 0.13s
+2025-02-27 19:27:11,576 - bot_user_15_8734 moved d7 → d5 in Game 139 (Move #10)
+2025-02-27 19:27:11,576 - bot_user_25_8696 moved e7 → e6 in Game 207 (Move #2)
+2025-02-27 19:27:11,576 - bot_user_16_9784 moved d7 → d6 in Game 153 (Move #6)
+2025-02-27 19:27:11,868 - bot_user_96_5350 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 47.26s
+2025-02-27 19:27:11,889 - bot_user_29_7712 - Make Move Response Time: 0.44s
+2025-02-27 19:27:11,889 - bot_user_51_8669 - Make Move Response Time: 0.44s
+2025-02-27 19:27:11,889 - bot_user_39_4880 - Make Move Response Time: 0.44s
+2025-02-27 19:27:11,889 - bot_user_14_4557 - Make Move Response Time: 0.45s
+2025-02-27 19:27:11,889 - bot_user_58_3153 - Make Move Response Time: 0.44s
+2025-02-27 19:27:11,889 - bot_user_6_9222 - Make Move Response Time: 0.44s
+2025-02-27 19:27:11,889 - bot_user_98_2543 - Make Move Response Time: 0.44s
+2025-02-27 19:27:11,889 - bot_user_90_4708 - Make Move Response Time: 0.44s
+2025-02-27 19:27:11,890 - bot_user_2_7088 - Fetch Game Response Time: 0.76s
+2025-02-27 19:27:11,890 - bot_user_91_8971 - Make Move Response Time: 0.44s
+2025-02-27 19:27:11,890 - bot_user_29_7712 moved c4 → c5 in Game 169 (Move #5)
+2025-02-27 19:27:11,890 - bot_user_36_5238 - Make Move Response Time: 0.41s
+2025-02-27 19:27:11,890 - bot_user_51_8669 moved g2 → g3 in Game 95 (Move #9)
+2025-02-27 19:27:11,890 - bot_user_39_4880 moved h1 → g1 in Game 74 (Move #19)
+2025-02-27 19:27:11,890 - bot_user_14_4557 moved a7 → a5 in Game 157 (Move #6)
+2025-02-27 19:27:11,890 - bot_user_58_3153 moved e2 → e3 in Game 228 (Move #1)
+2025-02-27 19:27:11,890 - bot_user_6_9222 moved b1 → a1 in Game 89 (Move #21)
+2025-02-27 19:27:11,891 - bot_user_98_2543 moved b7 → b5 in Game 152 (Move #8)
+2025-02-27 19:27:11,891 - bot_user_90_4708 moved e2 → e3 in Game 229 (Move #1)
+2025-02-27 19:27:11,891 - bot_user_91_8971 moved e7 → e6 in Game 94 (Move #14)
+2025-02-27 19:27:11,892 - bot_user_36_5238 moved h7 → h6 in Game 97 (Move #18)
+2025-02-27 19:27:11,952 - bot_user_70_2780 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 47.35s
+2025-02-27 19:27:11,995 - bot_user_2_7088 - Make Move Response Time: 0.10s
+2025-02-27 19:27:11,996 - bot_user_2_7088 moved f8 → h6 in Game 77 (Move #18)
+2025-02-27 19:27:12,139 - bot_user_76_6371 - Fetch Game Response Time: 0.11s
+2025-02-27 19:27:12,732 - bot_user_68_7572 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 48.13s
+2025-02-27 19:27:12,751 - bot_user_17_1892 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,752 - bot_user_93_5485 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,752 - bot_user_72_7472 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,752 - bot_user_38_5193 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,752 - bot_user_47_5781 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,752 - bot_user_13_8464 - Fetch Game Response Time: 0.70s
+2025-02-27 19:27:12,752 - bot_user_45_4471 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,754 - bot_user_56_9598 - Fetch Game Response Time: 0.72s
+2025-02-27 19:27:12,754 - bot_user_64_6855 - Fetch Game Response Time: 0.70s
+2025-02-27 19:27:12,756 - bot_user_52_1607 - Fetch Game Response Time: 0.72s
+2025-02-27 19:27:12,757 - bot_user_20_2252 - Fetch Game Response Time: 0.72s
+2025-02-27 19:27:12,757 - bot_user_28_9148 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,757 - bot_user_43_6323 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,757 - bot_user_76_6371 - Make Move Response Time: 0.62s
+2025-02-27 19:27:12,757 - bot_user_22_7127 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,757 - bot_user_88_7253 - Fetch Game Response Time: 0.72s
+2025-02-27 19:27:12,757 - bot_user_26_2833 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,757 - bot_user_81_5533 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,757 - bot_user_84_1394 - Fetch Game Response Time: 0.72s
+2025-02-27 19:27:12,757 - bot_user_82_1983 - Fetch Game Response Time: 0.71s
+2025-02-27 19:27:12,758 - bot_user_92_6517 - Fetch Game Response Time: 0.72s
+2025-02-27 19:27:12,758 - bot_user_65_6441 - Fetch Game Response Time: 0.72s
+2025-02-27 19:27:12,770 - bot_user_76_6371 moved a7 → a5 in Game 202 (Move #2)
+2025-02-27 19:27:12,856 - bot_user_17_1892 - Make Move Response Time: 0.10s
+2025-02-27 19:27:12,856 - bot_user_17_1892 moved b7 → b6 in Game 84 (Move #18)
+2025-02-27 19:27:12,857 - bot_user_9_4365 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 48.25s
+2025-02-27 19:27:12,858 - bot_user_59_7633 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 48.25s
+2025-02-27 19:27:13,461 - bot_user_56_9598 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,461 - bot_user_47_5781 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,461 - bot_user_93_5485 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,462 - bot_user_13_8464 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,462 - bot_user_45_4471 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,462 - bot_user_64_6855 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,462 - bot_user_52_1607 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,462 - bot_user_22_7127 - Make Move Response Time: 0.69s
+2025-02-27 19:27:13,467 - bot_user_56_9598 moved b8 → c6 in Game 181 (Move #2)
+2025-02-27 19:27:13,467 - bot_user_28_9148 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,467 - bot_user_26_2833 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,467 - bot_user_82_1983 - Make Move Response Time: 0.69s
+2025-02-27 19:27:13,467 - bot_user_72_7472 - Make Move Response Time: 0.71s
+2025-02-27 19:27:13,467 - bot_user_92_6517 - Make Move Response Time: 0.69s
+2025-02-27 19:27:13,467 - bot_user_84_1394 - Make Move Response Time: 0.69s
+2025-02-27 19:27:13,467 - bot_user_65_6441 - Make Move Response Time: 0.69s
+2025-02-27 19:27:13,467 - bot_user_31_1518 - Fetch Game Response Time: 1.17s
+2025-02-27 19:27:13,467 - bot_user_81_5533 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,467 - bot_user_38_5193 - Make Move Response Time: 0.71s
+2025-02-27 19:27:13,467 - bot_user_88_7253 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,467 - bot_user_89_3584 - Fetch Game Response Time: 1.17s
+2025-02-27 19:27:13,467 - bot_user_20_2252 - Make Move Response Time: 0.70s
+2025-02-27 19:27:13,468 - bot_user_47_5781 moved c6 → d4 in Game 68 (Move #24)
+2025-02-27 19:27:13,468 - bot_user_93_5485 moved b3 → b4 in Game 85 (Move #17)
+2025-02-27 19:27:13,468 - bot_user_13_8464 moved b8 → a6 in Game 112 (Move #10)
+2025-02-27 19:27:13,468 - bot_user_45_4471 moved d1 → b3 in Game 196 (Move #3)
+2025-02-27 19:27:13,468 - bot_user_64_6855 moved f2 → f3 in Game 129 (Move #7)
+2025-02-27 19:27:13,468 - bot_user_52_1607 moved d1 → h5 in Game 186 (Move #3)
+2025-02-27 19:27:13,468 - bot_user_22_7127 moved b7 → b5 in Game 110 (Move #8)
+2025-02-27 19:27:13,468 - bot_user_28_9148 moved g7 → g6 in Game 95 (Move #10)
+2025-02-27 19:27:13,468 - bot_user_26_2833 moved a1 → a2 in Game 108 (Move #9)
+2025-02-27 19:27:13,468 - bot_user_82_1983 moved g6 → g5 in Game 145 (Move #6)
+2025-02-27 19:27:13,468 - bot_user_72_7472 moved f2 → f4 in Game 153 (Move #7)
+2025-02-27 19:27:13,468 - bot_user_92_6517 moved c2 → c4 in Game 152 (Move #9)
+2025-02-27 19:27:13,468 - bot_user_84_1394 moved g2 → g3 in Game 233 (Move #1)
+2025-02-27 19:27:13,468 - bot_user_65_6441 moved c2 → c3 in Game 232 (Move #1)
+2025-02-27 19:27:13,469 - bot_user_81_5533 moved d2 → d4 in Game 155 (Move #5)
+2025-02-27 19:27:13,469 - bot_user_38_5193 moved h2 → h3 in Game 99 (Move #11)
+2025-02-27 19:27:13,469 - bot_user_88_7253 moved b2 → b3 in Game 231 (Move #1)
+2025-02-27 19:27:13,471 - bot_user_20_2252 moved f2 → f3 in Game 230 (Move #1)
+2025-02-27 19:27:13,498 - bot_user_71_6937 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 48.89s
+2025-02-27 19:27:13,568 - bot_user_31_1518 - Make Move Response Time: 0.10s
+2025-02-27 19:27:13,568 - bot_user_31_1518 moved g3 → g4 in Game 86 (Move #19)
+2025-02-27 19:27:13,571 - bot_user_12_4882 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 48.97s
+2025-02-27 19:27:13,614 - bot_user_43_6323 - Make Move Response Time: 0.84s
+2025-02-27 19:27:13,614 - bot_user_43_6323 moved g8 → h6 in Game 166 (Move #10)
+2025-02-27 19:27:13,728 - bot_user_89_3584 - Make Move Response Time: 0.26s
+2025-02-27 19:27:13,729 - bot_user_89_3584 moved d7 → d6 in Game 179 (Move #2)
+2025-02-27 19:27:14,317 - bot_user_48_8852 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 49.71s
+2025-02-27 19:27:14,318 - bot_user_83_9574 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 49.72s
+2025-02-27 19:27:14,321 - bot_user_77_7925 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 49.72s
+2025-02-27 19:27:14,321 - bot_user_85_4177 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 49.72s
+2025-02-27 19:27:14,771 - bot_user_8_8773 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,774 - bot_user_75_9838 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,774 - bot_user_30_3238 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,775 - bot_user_67_9192 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,775 - bot_user_7_5166 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,775 - bot_user_0_7063 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,776 - bot_user_95_8725 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,776 - bot_user_73_8564 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,776 - bot_user_54_7566 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,776 - bot_user_23_1842 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,776 - bot_user_37_3827 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.17s
+2025-02-27 19:27:14,901 - bot_user_49_6511 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.30s
+2025-02-27 19:27:14,901 - bot_user_44_1430 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.30s
+2025-02-27 19:27:14,901 - bot_user_63_1309 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.30s
+2025-02-27 19:27:14,921 - bot_user_33_8151 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.32s
+2025-02-27 19:27:14,923 - bot_user_78_3443 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.32s
+2025-02-27 19:27:14,955 - bot_user_35_5874 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.35s
+2025-02-27 19:27:14,993 - bot_user_4_3409 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.39s
+2025-02-27 19:27:15,028 - bot_user_55_7667 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.43s
+2025-02-27 19:27:15,030 - bot_user_97_3396 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.43s
+2025-02-27 19:27:15,109 - bot_user_86_6114 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.51s
+2025-02-27 19:27:15,145 - bot_user_53_7627 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 50.54s
+2025-02-27 19:27:15,793 - bot_user_60_7657 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.19s
+2025-02-27 19:27:15,907 - bot_user_1_6081 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.31s
+2025-02-27 19:27:15,909 - bot_user_61_8681 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.30s
+2025-02-27 19:27:16,208 - bot_user_32_1492 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.60s
+2025-02-27 19:27:16,217 - bot_user_46_4410 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.61s
+2025-02-27 19:27:16,458 - bot_user_42_2087 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.85s
+2025-02-27 19:27:16,578 - bot_user_25_8696 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.98s
+2025-02-27 19:27:16,581 - bot_user_15_8734 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.97s
+2025-02-27 19:27:16,581 - bot_user_16_9784 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 51.98s
+2025-02-27 19:27:16,893 - bot_user_91_8971 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,893 - bot_user_36_5238 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,894 - bot_user_51_8669 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,894 - bot_user_29_7712 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,894 - bot_user_39_4880 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,894 - bot_user_14_4557 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,894 - bot_user_58_3153 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,895 - bot_user_6_9222 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,895 - bot_user_98_2543 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,896 - bot_user_90_4708 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.29s
+2025-02-27 19:27:16,997 - bot_user_2_7088 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 52.39s
+2025-02-27 19:27:17,781 - bot_user_76_6371 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 53.18s
+2025-02-27 19:27:17,861 - bot_user_17_1892 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 53.26s
+2025-02-27 19:27:18,473 - bot_user_56_9598 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 53.87s
+2025-02-27 19:27:18,474 - bot_user_45_4471 Stats: 5 Moves, 0 Failures, Avg API Response Time: 0.00s, Session Duration: 53.87s
